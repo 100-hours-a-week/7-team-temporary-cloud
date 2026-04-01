@@ -1,6 +1,11 @@
-# ☁️ 7팀 Cloud Infrastructure
+# ☁️ Molip Cloud Infrastructure
 
-클라우드 인프라 아키텍처 및 배포 기록 레포지토리
+<img width="1920" height="1080" alt="80856b03ea3cfd31" src="https://github.com/user-attachments/assets/0078668d-6332-4813-becd-96765657dec3" />
+
+---
+# ☁️ 소개
+
+Molip 서비스의 클라우드 인프라 아키텍처 및 배포 기록 레포지토리입니다.
 
 ---
 
